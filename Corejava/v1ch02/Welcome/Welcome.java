@@ -36,6 +36,7 @@ class NameCls {
 	
     {
 	System.out.println("这是我在github上改的初始化代码块！");
+	System.out.println("然后我又在本地加了一句话！");
     }
 
     public void Do() {
