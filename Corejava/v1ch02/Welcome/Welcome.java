@@ -36,7 +36,7 @@ class NameCls {
 	System.out.println("然后我又在本地加了一句话！");
 	System.out.println("用vs加了一句话");
 	System.out.println("用乌龟加了一句话");
-	System.out.println("删除后123456");
+	System.out.println("删除后123456789");
     }
 
     public void Do() {
