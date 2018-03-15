@@ -30,9 +30,6 @@ public class Welcome {
 }
 
 class NameCls {
-    // public NameCls() {
-    // char c = 'a';
-    // }
 	
     {
 	//System.out.println("这是我在github上改的初始化代码块！");
