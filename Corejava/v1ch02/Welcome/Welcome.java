@@ -41,6 +41,5 @@ class NameCls {
     }
 
     public void Do() {
-	System.out.println("Êä³ö");
     }
 }
