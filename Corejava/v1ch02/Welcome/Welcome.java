@@ -33,11 +33,12 @@ class NameCls {
     // public NameCls() {
     // char c = 'a';
     // }
+	
     {
-	System.out.println("��ʼ��");
+	System.out.println("这是我在github上改的初始化代码块！");
     }
 
     public void Do() {
-	System.out.println("���");
+	System.out.println("Êä³ö");
     }
 }
